@@ -27,7 +27,7 @@ twitterBtn.addEventListener("click", ()=>{
 });
 quoteBtn.addEventListener("click", randomQuote);
 
-let countDate = new Date('oct 10, 2022 00:00:00').getTime();
+let countDate = new Date('May 20, 2023 00:00:00').getTime();
 
 function CountDown(){
 
